@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucRSquared/fireflies/HEAD?labpath=https%3A%2F%2Fgithub.com%2FLucRSquared%2Ffireflies%2Fblob%2Fmain%2Fnb_lucioles.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucRSquared/fireflies/20d0ec95e3325733bf392eabaf7acbe3caa7680c?urlpath=lab%2Ftree%2Fnb_lucioles.ipynb)
 
 # Fireflies
 
