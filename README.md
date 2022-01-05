@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucRSquared/fireflies/HEAD?labpath=https%3A%2F%2Fgithub.com%2FLucRSquared%2Ffireflies%2Fblob%2Fmain%2Fnb_lucioles.ipynb)
+
 # Fireflies
 
 This notebook is inspired by the interactive page 'Fireflies' by Nicky Case (https://ncase.me/fireflies/) illustrating how a group of fireflies can spontaneously synchronize without a 'leader'.
