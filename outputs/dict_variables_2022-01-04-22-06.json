@@ -1,0 +1,15 @@
+{
+    "clocklengths": 7,
+    "clockratiothresholds": 0.25,
+    "fovratios": 0.9,
+    "incrementstep": 0.1234,
+    "intensityperceptions": 1.0,
+    "ratioclocknudgelengths": 0.2,
+    "rememberiterations": true,
+    "rgbcolormaxs": [
+        243,
+        243,
+        97
+    ],
+    "visiondistance": 0.1
+}
