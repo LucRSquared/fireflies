@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucRSquared/fireflies/20d0ec95e3325733bf392eabaf7acbe3caa7680c?urlpath=lab%2Ftree%2Fnb_lucioles.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucRSquared/fireflies/HEAD?labpath=nb_lucioles.ipynb) (Click this badge to interact with the notebook yourself!)
 
 # Fireflies
 
@@ -15,7 +15,3 @@ The elementary principle is that each firefly in the swarm possesses its own int
 ## Code
 
 Please refer to the `nb_lucioles.ipynb` notebook for the details.
-
-## Binder
-
-Click on the "launch binder" badge to play with the notebook yourself directly in your browser!
