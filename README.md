@@ -13,3 +13,7 @@ The elementary principle is that each firefly in the swarm possesses its own int
 ## Code
 
 Please refer to the `nb_lucioles.ipynb` notebook for the details.
+
+## Binder
+
+Click on the "launch binder" badge to play with the notebook yourself directly in your browser!
