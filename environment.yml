@@ -1,0 +1,15 @@
+name: fireflies
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python
+  - ipykernel
+  - scipy
+  - matplotlib
+  - plotly
+  - nbformat
+  - ipywidgets
+  - tqdm
+prefix: C:\Users\Luc\anaconda3\envs\fireflies
